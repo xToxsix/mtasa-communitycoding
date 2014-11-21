@@ -2,17 +2,7 @@ MTASA CommunityCoding
 =====================
 
 Founder:
-
-Vandam
-StiviK
-Dr.Pro
+Vandam, StiviK, Dr.Pro
 
 Member:
-
-Toxsi
-Stocker
-Iven
-SP33D
-iTzExotic
-Adrian
-
+Toxsi, Stocker, Iven, SP33D, iTzExotic, Adrian
